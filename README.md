@@ -1,6 +1,6 @@
 
 
-I have completed a Planet Temperature Prediction** project using a planetary dataset. The main objective of my project was to predict planetary temperature using relevant planetary and stellar features.
+I have completed a Planet Temperature Prediction project using a planetary dataset. The main objective of my project was to predict planetary temperature using relevant planetary and stellar features.
 
 1. Data Loading: I loaded the dataset and examined its structure, source, features, records, and target variable.
 
